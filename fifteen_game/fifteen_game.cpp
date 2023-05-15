@@ -26,7 +26,7 @@ int main() {
 
 	User currentUser{};
 
-	/*startIntro();*/
+	startIntro();
 	ushort game_field[4][4]{};
 	ushort menuItem = 0;
 
