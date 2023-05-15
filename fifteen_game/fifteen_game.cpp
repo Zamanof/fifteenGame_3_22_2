@@ -101,7 +101,7 @@ int main() {
 					break;
 				}
 				else {
-					cout << "Password and confirm passwor is not match" << endl;
+					cout << "Password and confirm password is not match" << endl;
 				}
 			}
 			else
