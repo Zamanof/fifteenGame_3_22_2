@@ -28,6 +28,7 @@ int main() {
 
 	startIntro();
 	ushort game_field[4][4]{};
+
 	ushort menuItem = 0;
 
 	const char* introMenu[] =

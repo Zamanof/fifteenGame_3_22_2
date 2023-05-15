@@ -56,6 +56,7 @@ bool isWin(ushort game_field[][4]) {
 	for (size_t i = 0; i < 4; i++)
 	{
 		for (size_t j = 0; j < 4; j++)
+		for (size_t j = 0; j < 4; j++)
 		{
 			if (!isRightPosition(game_field, Coord{ ushort(i), ushort(j) })) return false;
 		}
